@@ -9,10 +9,10 @@
 - ⚡ Fun fact: Veggie, Cat lover and Physicist
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="pwbi" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
-  <img align="center" alt="GA" height="30" width="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg">
-  <img align="center" alt="cloudera" height="30" width="70" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Cloudera_logo.svg">
+<img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+<img alt="pwbi" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"> 
+<img alt="GA" height="30" width="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"> &nbsp;&nbsp;
+<img alt="cloudera" height="30" width="70" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Cloudera_logo.svg">
 </div>
 
 
