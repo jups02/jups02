@@ -17,7 +17,7 @@
 <img alt="GA" height="30" width="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"> &nbsp;
 <img alt="Google Big Query" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg">&nbsp;
 <img alt="Looker Studio" height="30" width="30" src="https://www.svgrepo.com/show/354012/looker-icon.svg">&nbsp;
-<img alt="Databricks" height="30" width="70" src="https://commons.wikimedia.org/wiki/File:Databricks-logo.svg"> &nbsp;
+<img alt="Databricks" height="30" width="70" src="https://commons.wikimedia.org/wiki/File:Databricks-logo.svg#/media/File:Databricks-logo.svg"> &nbsp;
 <img alt="hive" height="30" width="40" src="https://www.apache.org/logos/res/hive/default.png"> &nbsp;
 <img alt="impala" height="30" width="20" src="https://www.apache.org/logos/res/impala/impala.png">  &nbsp;
 
