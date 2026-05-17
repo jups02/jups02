@@ -1,9 +1,9 @@
 
 ### Hello, my name is Juliana Souza
 
-- 🔭 Business Intelligence Specialist
-- 🌱 Always learning something new. Specially about data analysis, Power BI, Data Science
-- 💬 Ask me about: SQL, Power BI, Power Query, Google Analytics
+- 🔭 Data Scientist
+- 🌱 Always learning something new. Specially about data analysis, AI, Data Science
+- 💬 Ask me about: PysPark, Data Science, AI
 - 📫 How to reach me: https://www.linkedin.com/in/julianapsouza/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Veggie, Cat lover and Physicist
